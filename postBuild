@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# make directory where images will be placed
+mkdir PUT_PHOTOS_HERE
