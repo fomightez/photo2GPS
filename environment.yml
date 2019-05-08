@@ -1,0 +1,11 @@
+name: exiftool-binderized
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - perl-image-exiftool
+  - pandas-datareader>=0.5.0
+  - matplotlib>=2.1.1
+  - seaborn
+  - regex
