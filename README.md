@@ -3,4 +3,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/photo2GPS/master?urlpath=lab/tree/index.ipynb)
 
 Click the `launch binder` badge to spin up an environment set up to make it easy to extract GPS coordinates from photo metadata.  
-(At the present time, this is best run in Firefox in order to make download of the data easier. Instructions for accomplishing the download are included for working in Chrome as well.)
+
