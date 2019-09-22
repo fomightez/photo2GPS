@@ -2,3 +2,13 @@
 
 # make directory where images will be placed
 mkdir PUT_PHOTOS_HERE
+
+
+jupyter lab clean #included for the workspace stuff based on it being in 
+# https://github.com/jupyterlab/jupyterlab-demo/blob/master/binder/postBuild while
+# I had left note at 
+# https://discourse.jupyter.org/t/configure-initial-layout/1660/4?u=fomightez 
+# saying postBuild had not worked for me a repo wheras placing it in `start` did.
+
+# Setup a workspace
+jupyter lab workspaces import binder/workspace.json
