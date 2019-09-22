@@ -11,4 +11,4 @@ jupyter lab clean #included for the workspace stuff based on it being in
 # saying postBuild had not worked for me a repo wheras placing it in `start` did.
 
 # Setup a workspace
-jupyter lab workspaces import binder/workspace.json
+jupyter lab workspaces import workspace.json
